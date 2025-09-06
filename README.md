@@ -15,10 +15,15 @@ Interactive Frontend: Simple and user-friendly interface built with Streamlit.
 🏗️ Tech Stack
 
 Backend: FastAPI, Python
+
 Frontend: Streamlit
+
 Orchestration: LangChain
+
 LLMs: OpenAI GPT framework
+
 Data Retrieval: SERP APIs (flights, hotels, etc.)
+
 Email Services: SMTP / SendGrid integration
 
 🚀 How It Works
