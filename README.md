@@ -1,4 +1,4 @@
-# MOSAIC-Travel-Assistant-An-Agentic-AI-Solution-for-Live-Flight-and-Hotel-Recommendations
+# MOSAIC-Multimodel-Orchestrated-Smart-Agentic-AI-Companion
 An Agentic AI Solution for Live Flight and Hotel Recommendations
 MOSAIC Travel Assistant is an Agentic AI-powered travel companion designed to provide real-time flight and hotel recommendations. Built on top of LangChain orchestration, it leverages advanced reasoning, dynamic tool usage, and memory modules to deliver goal-driven and contextual interactions for seamless trip planning.
 
